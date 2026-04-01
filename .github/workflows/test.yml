@@ -20,5 +20,5 @@ jobs:
     - name: Compile and Run (Windows)
       if: runner.os == 'Windows'
       run: |
-        g++ -std=c++17 -I./include -I./tests tests/catch_amalgamated.cpp tests/test_matrix.cpp -o run_tests.exe
+        g++ -std=c++23 -I./include -I./tests tests/catch_amalgamated.cpp tests/test_matrix.cpp -o run_tests.exe
         ./run_tests.exe

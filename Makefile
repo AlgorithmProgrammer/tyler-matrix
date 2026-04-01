@@ -1,7 +1,7 @@
 # --- Compiler Settings ---
 
 CXX      := g++
-CXXFLAGS := -std=c++26 -Wall -Wextra -Wpedantic -O3 -I./include -I./tests
+CXXFLAGS := -std=c++23 -Wall -Wextra -Wpedantic -O3 -I./include -I./tests
 
 # --- Files ---
 
