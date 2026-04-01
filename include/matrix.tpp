@@ -281,6 +281,8 @@ void Matrix<T>::resize (const size_t& rows, const size_t& cols, const T& value)
     _columns = cols;
 }
 
+// TODO: Add more operations such as discriminant.
+
 // --- Operator Overrides ---
 
 template <typename T> 
