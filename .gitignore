@@ -1,12 +1,14 @@
-# Compiled files
+# Compiled binaries
+run_tests
+matrix_app
 *.o
 *.exe
 *.out
 
-# Doxygen output
-html/
-latex/
-
-# IDE files
+# IDE folders
 .vscode/
 .idea/
+build/
+
+# Excluded folders
+docs/
