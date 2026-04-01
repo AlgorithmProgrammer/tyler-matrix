@@ -8,6 +8,7 @@ A high performance, header-only C++ math matrix library.
 
 ## Features
 * **Easy Implementation:** Just need to include the header file to implement the library.
+* **Efficient Storage:** Uses a 1D vector to lower memory use.
 * **Modern Features:** Compiled with C++23 standards.
 * **Cross-Platform:** Verified to work with Windows, MacOS, and Linux operating systems.
 
