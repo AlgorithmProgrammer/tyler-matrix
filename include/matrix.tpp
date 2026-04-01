@@ -347,7 +347,7 @@ bool Matrix<T>::operator== (const Matrix<T>& other) const
     return (_data == other._data && _rows == other._rows && _columns == other._columns);
 }
 
-// --- Size Checking ---
+// --- Size Checking / Private Methods ---
 
 template <typename T> 
 void Matrix<T>::checkBounds (const size_t& row, const size_t& col) const
