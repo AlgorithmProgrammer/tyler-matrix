@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.exe
+*.out
+
+# Doxygen output
+html/
+latex/
+
+# IDE files
+.vscode/
+.idea/
