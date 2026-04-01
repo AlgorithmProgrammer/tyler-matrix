@@ -1,7 +1,7 @@
 # tyler-matrix Library
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)
 ![C++](https://img.shields.io/badge/C%2B%2B-23-blue.svg?style=flat&logo=c%2B%2B)
-![Documentation](https://img.shields.io/badge/docs-doxygen-blue)
+[![Documentation](https://img.shields.io/badge/docs-doxygen-blue)](https://AlgorithmProgrammer.github.io/tyler-matrix/)
 ![C++ CI Build](https://github.com/AlgorithmProgrammer/tyler-matrix/actions/workflows/test.yml/badge.svg)
 
 A high performance, header-only C++ math matrix library.
@@ -40,7 +40,7 @@ int main()
 * Created test cases
 
 ## Attributions and Licenses
-**This library is distributed with the MIT license.**
+**This library is distributed with the MIT license:**
 **[License Information](https://opensource.org/license/mit)**
 
 * **[Catch2](https://github.com/catchorg/Catch2):** Modern C++ testing framework.
