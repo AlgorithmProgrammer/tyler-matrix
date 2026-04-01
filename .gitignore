@@ -1,0 +1,14 @@
+# Compiled binaries
+run_tests
+matrix_app
+*.o
+*.exe
+*.out
+
+# IDE folders
+.vscode/
+.idea/
+build/
+
+# Excluded folders
+docs/
