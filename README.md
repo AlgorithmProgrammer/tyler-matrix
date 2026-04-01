@@ -36,7 +36,7 @@ int main()
 
 ## AI Usage Summary
 **Artifical Intelligence was used in the following ways for this repository:**
-* Assisted in creation of Makefile and test.yml
+* Assisted in creation of Makefile, test.yml, docs.yml
 * Created test cases
 
 ## Attributions and Licenses
